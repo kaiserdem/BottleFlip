@@ -16,6 +16,7 @@
 		AD816B9F2378006900B6D52B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD816B9D2378006900B6D52B /* LaunchScreen.storyboard */; };
 		AD816BA7237805E700B6D52B /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD816BA6237805E700B6D52B /* MenuScene.swift */; };
 		AD816BA92378065400B6D52B /* MenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AD816BA82378065400B6D52B /* MenuScene.sks */; };
+		AD816BAB23780B9200B6D52B /* ButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD816BAA23780B9200B6D52B /* ButtonNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		AD816BA02378006900B6D52B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD816BA6237805E700B6D52B /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
 		AD816BA82378065400B6D52B /* MenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MenuScene.sks; sourceTree = "<group>"; };
+		AD816BAA23780B9200B6D52B /* ButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				AD816B902378006700B6D52B /* GameScene.sks */,
 				AD816B942378006700B6D52B /* GameScene.swift */,
 				AD816BA6237805E700B6D52B /* MenuScene.swift */,
+				AD816BAA23780B9200B6D52B /* ButtonNode.swift */,
 				AD816BA82378065400B6D52B /* MenuScene.sks */,
 				AD816B962378006700B6D52B /* GameViewController.swift */,
 				AD816B982378006700B6D52B /* Main.storyboard */,
@@ -153,6 +156,7 @@
 				AD816BA7237805E700B6D52B /* MenuScene.swift in Sources */,
 				AD816B972378006700B6D52B /* GameViewController.swift in Sources */,
 				AD816B8F2378006700B6D52B /* AppDelegate.swift in Sources */,
+				AD816BAB23780B9200B6D52B /* ButtonNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
