@@ -19,6 +19,7 @@
 		AD816BAB23780B9200B6D52B /* ButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD816BAA23780B9200B6D52B /* ButtonNode.swift */; };
 		AD8F6D16237816BF00ECE77B /* LabelNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F6D15237816BF00ECE77B /* LabelNode.swift */; };
 		AD8F6D182378186700ECE77B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F6D172378186700ECE77B /* Constants.swift */; };
+		AD8F6D1A2378243F00ECE77B /* Items.plist in Resources */ = {isa = PBXBuildFile; fileRef = AD8F6D192378243F00ECE77B /* Items.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		AD816BAA23780B9200B6D52B /* ButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNode.swift; sourceTree = "<group>"; };
 		AD8F6D15237816BF00ECE77B /* LabelNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelNode.swift; sourceTree = "<group>"; };
 		AD8F6D172378186700ECE77B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		AD8F6D192378243F00ECE77B /* Items.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Items.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				AD816B9B2378006900B6D52B /* Assets.xcassets */,
 				AD816B9D2378006900B6D52B /* LaunchScreen.storyboard */,
 				AD816BA02378006900B6D52B /* Info.plist */,
+				AD8F6D192378243F00ECE77B /* Items.plist */,
 			);
 			path = BottleFlip;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD816B9A2378006700B6D52B /* Main.storyboard in Resources */,
+				AD8F6D1A2378243F00ECE77B /* Items.plist in Resources */,
 				AD816B912378006700B6D52B /* GameScene.sks in Resources */,
 				AD816B9C2378006900B6D52B /* Assets.xcassets in Resources */,
 				AD816BA92378065400B6D52B /* MenuScene.sks in Resources */,
