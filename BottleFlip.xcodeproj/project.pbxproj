@@ -17,6 +17,8 @@
 		AD816BA7237805E700B6D52B /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD816BA6237805E700B6D52B /* MenuScene.swift */; };
 		AD816BA92378065400B6D52B /* MenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AD816BA82378065400B6D52B /* MenuScene.sks */; };
 		AD816BAB23780B9200B6D52B /* ButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD816BAA23780B9200B6D52B /* ButtonNode.swift */; };
+		AD8F6D16237816BF00ECE77B /* LabelNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F6D15237816BF00ECE77B /* LabelNode.swift */; };
+		AD8F6D182378186700ECE77B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F6D172378186700ECE77B /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		AD816BA6237805E700B6D52B /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
 		AD816BA82378065400B6D52B /* MenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MenuScene.sks; sourceTree = "<group>"; };
 		AD816BAA23780B9200B6D52B /* ButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNode.swift; sourceTree = "<group>"; };
+		AD8F6D15237816BF00ECE77B /* LabelNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelNode.swift; sourceTree = "<group>"; };
+		AD8F6D172378186700ECE77B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				AD816B942378006700B6D52B /* GameScene.swift */,
 				AD816BA6237805E700B6D52B /* MenuScene.swift */,
 				AD816BAA23780B9200B6D52B /* ButtonNode.swift */,
+				AD8F6D15237816BF00ECE77B /* LabelNode.swift */,
+				AD8F6D172378186700ECE77B /* Constants.swift */,
 				AD816BA82378065400B6D52B /* MenuScene.sks */,
 				AD816B962378006700B6D52B /* GameViewController.swift */,
 				AD816B982378006700B6D52B /* Main.storyboard */,
@@ -154,7 +160,9 @@
 			files = (
 				AD816B952378006700B6D52B /* GameScene.swift in Sources */,
 				AD816BA7237805E700B6D52B /* MenuScene.swift in Sources */,
+				AD8F6D16237816BF00ECE77B /* LabelNode.swift in Sources */,
 				AD816B972378006700B6D52B /* GameViewController.swift in Sources */,
+				AD8F6D182378186700ECE77B /* Constants.swift in Sources */,
 				AD816B8F2378006700B6D52B /* AppDelegate.swift in Sources */,
 				AD816BAB23780B9200B6D52B /* ButtonNode.swift in Sources */,
 			);
